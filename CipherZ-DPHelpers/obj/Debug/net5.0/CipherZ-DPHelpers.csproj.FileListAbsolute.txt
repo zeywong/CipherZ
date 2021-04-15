@@ -1,0 +1,12 @@
+D:\Projects\CipherZ\CipherZ-DPHelpers\bin\Debug\net5.0\CipherZ-DPHelpers.deps.json
+D:\Projects\CipherZ\CipherZ-DPHelpers\bin\Debug\net5.0\CipherZ-DPHelpers.dll
+D:\Projects\CipherZ\CipherZ-DPHelpers\bin\Debug\net5.0\ref\CipherZ-DPHelpers.dll
+D:\Projects\CipherZ\CipherZ-DPHelpers\bin\Debug\net5.0\CipherZ-DPHelpers.pdb
+D:\Projects\CipherZ\CipherZ-DPHelpers\obj\Debug\net5.0\CipherZ-DPHelpers.csprojAssemblyReference.cache
+D:\Projects\CipherZ\CipherZ-DPHelpers\obj\Debug\net5.0\CipherZ-DPHelpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CipherZ\CipherZ-DPHelpers\obj\Debug\net5.0\CipherZ-DPHelpers.AssemblyInfoInputs.cache
+D:\Projects\CipherZ\CipherZ-DPHelpers\obj\Debug\net5.0\CipherZ-DPHelpers.AssemblyInfo.cs
+D:\Projects\CipherZ\CipherZ-DPHelpers\obj\Debug\net5.0\CipherZ-DPHelpers.csproj.CoreCompileInputs.cache
+D:\Projects\CipherZ\CipherZ-DPHelpers\obj\Debug\net5.0\CipherZ-DPHelpers.dll
+D:\Projects\CipherZ\CipherZ-DPHelpers\obj\Debug\net5.0\ref\CipherZ-DPHelpers.dll
+D:\Projects\CipherZ\CipherZ-DPHelpers\obj\Debug\net5.0\CipherZ-DPHelpers.pdb
